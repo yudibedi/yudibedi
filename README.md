@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Cytometry In R
+
+Location: Stanford, California, USA
+
+My Favorite Fluorophore/Metal-Isotope: 165Ho
+
+Previous Coding Experience: Bioinformatics analysis using R for RNAseq/scRNAseq and cyTOF analyses
+
+What I Hope to Get From This Course: Better data visualization tools and cell annotation methods
+
 <!--
 **yudibedi/yudibedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
